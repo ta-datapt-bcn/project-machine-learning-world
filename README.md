@@ -27,12 +27,12 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 
 ## News 
 1. [AlphaGO](https://www.blog.google/technology/ai/alphago-machine-learning-game-go/)
-2. [Google Autonomous Car](https://www.iflscience.com/technology/google-has-developed-self-driving-car/)
+2. [Self driving cars](https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber)
 3. [Fb Face recognition](https://gizmodo.com/facebooks-new-face-recognition-features-what-we-do-an-1823359911)
 4. [Google drawing](https://www.theverge.com/2017/4/11/15263434/google-ai-autodraw-doodle-bot-drawing-image-recognition)
 5. [Trump campaign](https://hackernoon.com/did-donald-trump-use-artificial-intelligence-to-win-the-election-8008c2c0bf59)
 6. [Brain AI](https://www.iflscience.com/brain/artificial-intelligence-recreates-images-from-inside-the-human-brain/)
-7. [Tay Microsoft racist AI](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
+7. [Chatbots](https://www.wordstream.com/blog/ws/2017/10/04/chatbots)
 8. [How Far Are We From Achieving Artificial General Intelligence?](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/)
 9. [How AI is changing photography](https://www.theverge.com/2019/1/31/18203363/ai-artificial-intelligence-photography-google-photos-apple-huawei)
 10. [Retail AI](https://www.forbes.com/sites/bernardmarr/2018/08/10/how-fashion-retailer-hm-is-betting-on-artificial-intelligence-and-big-data-to-regain-profitability/#65bdfc7a5b00)
