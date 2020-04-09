@@ -46,3 +46,4 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 18. [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies/)
 19. [Forbes Insights AI](https://www.forbes.com/insights-intelai/) - Luis
 20. [The Verge Real World AI Issue](https://www.theverge.com/2019/1/28/18194816/ai-artificial-intelligence-issue)
+21. [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii) - Javi
