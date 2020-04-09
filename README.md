@@ -41,3 +41,4 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
 14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
 15. [Deep Learning in Ophthalmology](https://medium.com/health-ai/deep-learning-in-ophthalmology-using-128-175-retinal-images-59814e8a3f68)
+16. [The Economics of AI Today](https://thegradient.pub/the-economics-of-ai-today/)
