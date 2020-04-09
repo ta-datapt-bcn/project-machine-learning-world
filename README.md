@@ -26,23 +26,23 @@ So you need to look for more information. Maybe the paper the scientists publish
 Let's start! You will be assigned to an article and a day when you will have 5 minutes to share your research with your colleagues and then 5 minutes to discuss a little bit. Feel free to present your conclusions in the way you prefer.
 
 ## News 
-1. [AlphaGO](https://www.blog.google/technology/ai/alphago-machine-learning-game-go/)
-2. [Self driving cars](https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber)
+1. [AlphaGO](https://www.blog.google/technology/ai/alphago-machine-learning-game-go/) - Karla
+2. [Self driving cars](https://www.vox.com/future-perfect/2020/2/14/21063487/self-driving-cars-autonomous-vehicles-waymo-cruise-uber) - Sosa
 3. [Fb Face recognition](https://gizmodo.com/facebooks-new-face-recognition-features-what-we-do-an-1823359911)
 4. [Google drawing](https://www.theverge.com/2017/4/11/15263434/google-ai-autodraw-doodle-bot-drawing-image-recognition)
-5. [Trump campaign](https://hackernoon.com/did-donald-trump-use-artificial-intelligence-to-win-the-election-8008c2c0bf59)
-6. [Brain AI](https://www.iflscience.com/brain/artificial-intelligence-recreates-images-from-inside-the-human-brain/)
-7. [Chatbots](https://www.wordstream.com/blog/ws/2017/10/04/chatbots)
-8. [How Far Are We From Achieving Artificial General Intelligence?](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/)
-9. [How AI is changing photography](https://www.theverge.com/2019/1/31/18203363/ai-artificial-intelligence-photography-google-photos-apple-huawei)
-10. [Retail AI](https://www.forbes.com/sites/bernardmarr/2018/08/10/how-fashion-retailer-hm-is-betting-on-artificial-intelligence-and-big-data-to-regain-profitability/#65bdfc7a5b00)
-11. [LAPD crime algorithm](https://www.wired.com/story/los-angeles-police-department-predictive-policing/)
-12. [Traffic AI](https://motherboard.vice.com/en_us/article/jp3dn7/new-ai-algorithm-beats-even-the-worlds-worst-traffic)
-13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
+5. [Trump campaign](https://hackernoon.com/did-donald-trump-use-artificial-intelligence-to-win-the-election-8008c2c0bf59) - Isaac
+6. [Brain AI](https://www.iflscience.com/brain/artificial-intelligence-recreates-images-from-inside-the-human-brain/) - Miguel Angel
+7. [Chatbots](https://www.wordstream.com/blog/ws/2017/10/04/chatbots) - Dinis
+8. [How Far Are We From Achieving Artificial General Intelligence?](https://www.forbes.com/sites/cognitiveworld/2019/06/10/how-far-are-we-from-achieving-artificial-general-intelligence/) - Miguel
+9. [How AI is changing photography](https://www.theverge.com/2019/1/31/18203363/ai-artificial-intelligence-photography-google-photos-apple-huawei) - Mar
+10. [Retail AI](https://www.forbes.com/sites/bernardmarr/2018/08/10/how-fashion-retailer-hm-is-betting-on-artificial-intelligence-and-big-data-to-regain-profitability/#65bdfc7a5b00) - Kristina
+11. [LAPD crime algorithm](https://www.wired.com/story/los-angeles-police-department-predictive-policing/) - Gabi
+12. [Traffic AI](https://motherboard.vice.com/en_us/article/jp3dn7/new-ai-algorithm-beats-even-the-worlds-worst-traffic) - Oscar
+13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it) - Pau
 14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
 15. [Deep Learning in Ophthalmology](https://medium.com/health-ai/deep-learning-in-ophthalmology-using-128-175-retinal-images-59814e8a3f68)
-16. [The Economics of AI Today](https://thegradient.pub/the-economics-of-ai-today/) or [any other here](https://thegradient.pub)
+16. [The Economics of AI Today](https://thegradient.pub/the-economics-of-ai-today/) or [any other here](https://thegradient.pub) - Jota
 17. [New York Times AI Special report](https://www.nytimes.com/spotlight/artificial-intelligence)
 18. [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies/)
-19. [Forbes Insights AI](https://www.forbes.com/insights-intelai/)
+19. [Forbes Insights AI](https://www.forbes.com/insights-intelai/) - Luis
 20. [The Verge Real World AI Issue](https://www.theverge.com/2019/1/28/18194816/ai-artificial-intelligence-issue)
